@@ -7,7 +7,7 @@ Hi, I'm Homonovis / Mamadou / Mama in short
 - 🌱 I’m currently learning TypeScript, NextJS and C++
 - 💞️ I’m looking to collaborate on anything involving JS, React, NesxtJS, ExpressJS, Prisma, PostgreS, VB.net...
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/mamadou-leye)   <a href="mailto:mama.leye@gmail.com">Email</a>
-- ⚡ Fun fact: I make eggcellent Cheesy/Garlic naans!🍞
+- ⚡ Fun fact: I make eggcellent Cheesy/Garlic naans and Neapolitan Pizzas!🍞
 
 <!---
 homonoviscoding/homonoviscoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
